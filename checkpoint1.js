@@ -1,5 +1,5 @@
 // 1º Checkpoint
-// Vinicius Marques Souza
+// Vinicius Marques Souza - grupo 8
 
 let opcao = 0;
 
